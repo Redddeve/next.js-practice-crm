@@ -1,5 +1,3 @@
-import { cookies, headers } from 'next/headers';
-import StatusLabel, { Status } from './components/status-label';
 import AddCompanyButton from './components/add-company-button';
 import ServerComponent from './components/server-component';
 import ClientComponent from './components/client-component';
